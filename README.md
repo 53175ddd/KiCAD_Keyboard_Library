@@ -1,4 +1,4 @@
-# KiCAD Keybaord Library
+# KiCAD Keyboard Library
 
 本リポジトリは，KiCAD で自作キーボードを設計する際に便利な，キースイッチと ARGB LED がセットになったシンボルやフットプリントを管理するものです  
 以下のものを用意しています
